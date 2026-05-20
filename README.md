@@ -61,7 +61,4 @@ Router# show vxlan vni
 - **BGP** — protocole à vecteur de chemin (path-vector), politique de routage flexible
 - **VXLAN** — extension de VLAN sur IP, supporte jusqu'à 16 millions de segments (24 bits de VNI)
 - Combinaison **OSPF + BGP** : OSPF comme IGP pour la connectivité underlay, BGP pour la propagation des routes overlay
----
- 
-*Projet réalisé à **42 Paris** — lekix-lekix*
  
